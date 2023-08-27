@@ -1,0 +1,1 @@
+SELECT city FROM `feyza2eylul` WHERE sentiment = "Very Positive" GROUP BY city ORDER BY sentiment
